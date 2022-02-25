@@ -3,4 +3,4 @@ Program for few in one weather map fusion. It proper rotates and scale maps to m
 ![Image](Prezentacja/Laczenie.png)
 # Pomiar odległości
 Script for approximated distance measurement in km at fused weather map.
-![Image](Prezentacja/Pomiar-odleglosci.png)
+![Image](Prezentacja/Pomiar_odleglosci.png)
