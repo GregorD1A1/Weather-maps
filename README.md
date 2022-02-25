@@ -3,4 +3,5 @@ Script for few in one weather map fusion. It proper rotates and scale maps to ma
 ![Image](Prezentacja/Laczenie.png)
 # Pomiar odległości
 Script for approximated distance measurement in km at fused weather map. It's important to know that distance at image depends on longitude of place of measurement.
+
 ![Image](Prezentacja/Pomiar_odleglosci.png)
