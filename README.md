@@ -1,7 +1,7 @@
 # Generacja_map_laczonych.py
-Script for few in one weather map fusion. It proper rotates and scale maps to match each other, after that extracts weather fronts from them and inserts it in different colors in fused map.
+Script for combining multiple weather maps: This script accurately rotates and scales various weather maps to ensure they match each other. Once aligned, it extracts the weather fronts from each map and inserts them into the composite map with distinct colors for easy interpretation.
 ![Image](Prezentacja/Laczenie.png)
 # Pomiar_odleglosci.py
-Script for approximated distance measurement in km at fused weather map. It's important to know that distance at image depends on longitude of place of measurement.
+Script for estimating distances in kilometers on combined weather maps: This script allows users to measure distances on the fused weather map, taking into account that the image's scale depends on the longitude of the location being measured.
 
 ![Image](Prezentacja/Pomiar_odleglosci.png)
